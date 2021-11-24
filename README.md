@@ -1,4 +1,4 @@
-Hi, I'm [Oliva](https://www.linkedin.com/in/olivia-bellis-06365572/)! I am still early in my career as a software developer but you can follow my continuing journey and projects here.
+Hi, I'm [Oliva](https://www.linkedin.com/in/olivia-bellis-06365572/)! I am still growing in my career as a software developer but you can follow my continuing journey and projects here.
 
 My primary language experience is in JavaScript, and I have enough HTML and CSS to do solid front-end work. Most of my work is dealing with front-end interactive development based around web map packages such as [Mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) and [OpenLayers](https://github.com/openlayers/openlayers). But I have dabbled in a lot of middleware tech using AWS to help deliver content to the front-end portion. I also have skills in SQL and various database systems from Oracle to DynamoDB. I have written code in VB, ActionScript 3, Java, and bash as well.
 
